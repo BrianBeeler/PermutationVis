@@ -28,7 +28,7 @@ var Tree = function(root) {
 } 
 
 // ************** Generate the tree diagram  *****************
-var margin = {top: 20, right: 120, bottom: 20, left: 120},
+var margin = {top: 20, right: 140, bottom: 20, left: 140},
  width = 960 - margin.right - margin.left,
  height = 500 - margin.top - margin.bottom;
  
